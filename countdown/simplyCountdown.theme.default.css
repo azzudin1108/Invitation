@@ -23,10 +23,10 @@
 .simply-countdown>.simply-section .simply-word {
     display: block;
     text-align: center;
-    font-size: 1rem;
+    font-size: 1.2rem;
 }
 
 
 .simply-countdown>.simply-section .simply-amount {
-    font-size: 1.2rem;
+    font-size: 1.4rem;
 }
